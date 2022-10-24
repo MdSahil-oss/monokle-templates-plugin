@@ -6,10 +6,10 @@
     "repository": "https://github.com/MdSahil-oss/monokle-templates-plugin",
     "monoklePlugin": {
         "modules": [
-        {
-            "type": "template",
-            "path": "basic-pod-template"
-        }
+            {
+                "type": "template",
+                "path": "basic-pod-template"
+            }
         ]
     }
 }
