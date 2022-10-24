@@ -1,15 +1,15 @@
 {
-    "name": "templates_plugins",
-    "description": "Custom templates plugin",
-    "version": "1.0.0",
-    "author": "Md Sahil",
-    "repository": "https://github.com/MdSahil-oss/monokle-templates-plugin",
-    "monoklePlugin": {
-        "modules": [
-            {
-                "type": "template",
-                "path": "basic-pod-template"
-            }
-        ]
+    "name":"templates_plugins",
+    "description":"Custom templates plugin",
+    "version":"1.0.0",
+    "author":"Md Sahil",
+    "repository":"https://github.com/MdSahil-oss/monokle-templates-plugin",
+    "monoklePlugin":{
+       "modules":[
+          {
+             "type":"template",
+             "path":"basic-pod-template"
+          }
+       ]
     }
-}
+ }
