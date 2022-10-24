@@ -3,7 +3,7 @@
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Md Sahil",
-    "repository": "https://github.com/MdSahil-oss/monokle-templates-plugin.git",
+    "repository": "https://github.com/MdSahil-oss/monokle-templates-plugin",
     "monoklePlugin": {
         "modules": [
         {
