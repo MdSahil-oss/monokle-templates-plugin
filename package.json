@@ -5,11 +5,11 @@
     "author": "Md Sahil",
     "repository": "https://github.com/MdSahil-oss/monokle-templates-plugin.git",
     "monoklePlugin": {
-      "modules": [
+        "modules": [
         {
             "type": "template",
             "path": "basic-pod-template"
         }
-      ]
+        ]
     }
-  }
+}
